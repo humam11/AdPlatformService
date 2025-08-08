@@ -1,0 +1,32 @@
+# Build outputs
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Log files
+*.log
+
+# Cache files
+project.nuget.cache
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# Environment-specific files
+appsettings.Development.json
+appsettings.Production.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
